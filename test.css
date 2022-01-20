@@ -1,4 +1,4 @@
-
+/*This section has a CSS code not gone through in class (#1) - I changed the background opacity*/
 body {
 background-image: url('dark_wood.png');
 opacity: 0.5;
@@ -8,6 +8,7 @@ color: white;
 font-weight: bold;
 font-family: "Arial";
 }
+/*This section has a CSS code not gone through in class (#2) - Added an outline style */
 span {
     color: #FFBC00;
     font-weight: bold;
@@ -28,6 +29,7 @@ a {
 li {
 
 }
+/*This section has a CSS code not gone through in class (#3, #4, #5) - Added text decoration, text decoration color, and text transformed into uppercase */
 #Header {
     text-decoration: underline;
     text-decoration-color: white;
@@ -42,7 +44,6 @@ margin-bottom: 10px;
 text-align: center;
 }
 #Header h1 {
-    
 font-size: 60px;
 font-family: "Passion One";
 color: #ffbc00;
